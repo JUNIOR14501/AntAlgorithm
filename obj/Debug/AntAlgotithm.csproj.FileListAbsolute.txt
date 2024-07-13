@@ -1,0 +1,16 @@
+C:\Users\vlad\Desktop\Курсовые\ООП\AntAlgotithm\bin\Debug\AntAlgotithm.exe.config
+C:\Users\vlad\Desktop\Курсовые\ООП\AntAlgotithm\bin\Debug\AntAlgotithm.exe
+C:\Users\vlad\Desktop\Курсовые\ООП\AntAlgotithm\bin\Debug\AntAlgotithm.pdb
+C:\Users\vlad\Desktop\Курсовые\ООП\AntAlgotithm\obj\Debug\AntAlgotithm.csproj.AssemblyReference.cache
+C:\Users\vlad\Desktop\Курсовые\ООП\AntAlgotithm\obj\Debug\AntAlgotithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\vlad\Desktop\Курсовые\ООП\AntAlgotithm\obj\Debug\AntAlgotithm.csproj.CoreCompileInputs.cache
+C:\Users\vlad\Desktop\Курсовые\ООП\AntAlgotithm\obj\Debug\AntAlgotithm.exe
+C:\Users\vlad\Desktop\Курсовые\ООП\AntAlgotithm\obj\Debug\AntAlgotithm.pdb
+C:\Users\vlad\Desktop\Курсовые\ООП\AntAlgotithm C#\bin\Debug\AntAlgotithm.exe.config
+C:\Users\vlad\Desktop\Курсовые\ООП\AntAlgotithm C#\bin\Debug\AntAlgotithm.exe
+C:\Users\vlad\Desktop\Курсовые\ООП\AntAlgotithm C#\bin\Debug\AntAlgotithm.pdb
+C:\Users\vlad\Desktop\Курсовые\ООП\AntAlgotithm C#\obj\Debug\AntAlgotithm.csproj.AssemblyReference.cache
+C:\Users\vlad\Desktop\Курсовые\ООП\AntAlgotithm C#\obj\Debug\AntAlgotithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\vlad\Desktop\Курсовые\ООП\AntAlgotithm C#\obj\Debug\AntAlgotithm.csproj.CoreCompileInputs.cache
+C:\Users\vlad\Desktop\Курсовые\ООП\AntAlgotithm C#\obj\Debug\AntAlgotithm.exe
+C:\Users\vlad\Desktop\Курсовые\ООП\AntAlgotithm C#\obj\Debug\AntAlgotithm.pdb
